@@ -80,22 +80,6 @@ Estou sempre buscando evoluir como desenvolvedor e construir soluções escaláv
 
 ---
 
-# Estatísticas
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dev-Edison&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<br>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Edison&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
 ### Atualmente estudando
 
 Java • Spring Boot • Arquitetura de Software • Microsserviços
