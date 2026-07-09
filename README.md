@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1500&color=3DA47A&center=true&vCenter=true&width=650&lines=Marcos+Marcos;Antonio+Full+Stack" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1500&color=3DA47A&center=true&vCenter=true&width=650&lines=Marcos+Antonio;Dev+Full+Stack" />
 </a>
 
 <br><br>
