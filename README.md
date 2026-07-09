@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1500&color=3DA47A&center=true&vCenter=true&width=650&lines=Edison+Marcos;Dev+Full+Stack" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1500&color=3DA47A&center=true&vCenter=true&width=650&lines=Marcos+Marcos;Antonio+Full+Stack" />
 </a>
 
 <br><br>
@@ -28,15 +28,15 @@ Estou sempre buscando evoluir como desenvolvedor e construir soluções escaláv
 
 <p>
 
-<a href="https://www.linkedin.com/in/edison-marcos-194525278">
+<a href="www.linkedin.com/in/marcos-antonio-856ba7342">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:dev3dison@gmail.com">
+<a href="mailto:kinhodevjrgmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://api.whatsapp.com/send?phone=5521993405583&text=Olá%20Edison,%20vim%20pelo%20seu%20GitHub!">
+<a href="https://api.whatsapp.com/send?phone=55219770303663&text=Olá%20Marcos,%20vim%20pelo%20seu%20GitHub!">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
