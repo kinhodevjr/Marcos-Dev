@@ -36,7 +36,7 @@ Estou sempre buscando evoluir como desenvolvedor e construir soluções escaláv
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://api.whatsapp.com/send?phone=55219770303663&text=Olá%20Marcos,%20vim%20pelo%20seu%20GitHub!">
+<a href="https://api.whatsapp.com/send?phone=5521977030366&text=Olá%20Marcos,%20vim%20pelo%20seu%20GitHub!">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
